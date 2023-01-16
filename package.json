@@ -1,6 +1,6 @@
 {
   "name": "json-safe-stringify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stringify a Javascript JSON object, and actually handle Maps and Sets",
   "license": "BSD-3-Clause",
   "repository": "https://github.com/stefnotch/json-safe-stringify",
