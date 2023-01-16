@@ -1,10 +1,10 @@
 {
-  "name": "",
+  "name": "json-safe-stringify",
   "version": "1.0.0",
-  "description": "",
+  "description": "Stringify a Javascript JSON object, and actually handle Maps and Sets",
   "license": "BSD-3-Clause",
-  "repository": "",
-  "author": "",
+  "repository": "https://github.com/stefnotch/json-safe-stringify",
+  "author": "Stefnotch",
   "type": "module",
   "exports": {
     ".": "./index.js"
