@@ -12,7 +12,7 @@
   "scripts": {
     "build": "tsc",
     "test": "exit 0",
-    "publish": "np"
+    "release": "np"
   },
   "files": [
     "dist"
