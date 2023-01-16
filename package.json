@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "license": "BSD-3-Clause",
+  "repository": "",
+  "author": "",
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "exit 0",
+    "publish": "np"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [],
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.9.4",
+    "np": "7.6.3"
+  }
+}
