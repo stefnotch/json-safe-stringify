@@ -1,5 +1,7 @@
 # json-safe-stringify
 
+Fixes the issues with https://stackoverflow.com/a/56150320/3492994 and other answers on that page.
+
 Example
 
 ```ts
